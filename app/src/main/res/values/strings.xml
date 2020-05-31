@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Voice_Recorder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_on_the_mic_icon_n_to_start_recording">Click on the mic icon \n to start recording</string>
+</resources>
